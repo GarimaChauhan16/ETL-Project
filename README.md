@@ -1,3 +1,4 @@
+<<<<<<< HEAD:ReadMe.md.rtf
 # Median Rental Price Data for Chicago Zip codes
 
 The purpose of this project is to compare the housing rental values for Chicago zipcodes with the number of amenities available. In order to do so, we extracted data from 2 different sources (Zillow and Yelp) and performed the following three steps: 
@@ -14,3 +15,8 @@ We combined the number for nightlife, restaurants, and grocery shops into total 
 ## Load
 
 We loaded the data into SQL database and joined the data on zip codes to compare the total number of amenities and rental prices in different zip codes. 
+=======
+# ETL-Project
+
+The purpose of this project is to compare the housing rental values for Chicago zipcodes with the number of amenities available. In order to do so, we extracted data from 2 different sources (Zillow and Yelp) and performed: Extract, Transform and Load. 
+>>>>>>> 841a8cad5800c11352bd3df537c6c99901ebdefd:README.md
